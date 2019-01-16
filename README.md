@@ -7,3 +7,4 @@ Something from GitHub
 This is an edit from my time travel branch!
 
 Let's make a merge conflict!
+Uh-oh. Not good.
